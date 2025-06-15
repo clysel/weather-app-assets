@@ -1,0 +1,115 @@
+{
+    "base_url": "https://andi4000.github.com/weather-icons/production/monochrome/svg-static/",
+    "0": {
+        "day": "clear-day.svg",
+        "night": "clear-night.svg"
+    },
+    "1": {
+        "day": "clear-day.svg",
+        "night": "clear-night.svg"
+    },
+    "2": {
+        "day": "partly-cloudy-day.svg",
+        "night": "partly-cloudy-night.svg"
+    },
+    "3": {
+        "day": "overcast-day.svg",
+        "night": "overcast-night.svg"
+    },
+    "45": {
+        "day": "fog-day.svg",
+        "night": "fog-night.svg"
+    },
+    "48": {
+        "day": "fog-day.svg",
+        "night": "fog-night.svg"
+    },
+    "51": {
+        "day": "overcast-day-drizzle.svg",
+        "night": "drizzle.svg"
+    },
+    "53": {
+        "day": "drizzle.svg",
+        "night": "drizzle.svg"
+    },
+    "55": {
+        "day": "drizzle.svg",
+        "night": "drizzle.svg"
+    },
+    "56": {
+        "day": "drizzle.svg",
+        "night": "drizzle.svg"
+    },
+    "57": {
+        "day": "drizzle.svg",
+        "night": "drizzle.svg"
+    },
+    "61": {
+        "day": "overcast-day-rain.svg",
+        "night": "overcast-night-rain.svg"
+    },
+    "63": {
+        "day": "rain.svg",
+        "night": "rain.svg"
+    },
+    "65": {
+        "day": "extreme-rain.svg",
+        "night": "extreme-rain.svg"
+    },
+    "66": {
+        "day": "rain.svg",
+        "night": "rain.svg"
+    },
+    "67": {
+        "day": "rain.svg",
+        "night": "rain.svg"
+    },
+    "71": {
+        "day": "partly-cloudy-day-snow.svg",
+        "night": "partly-cloudy-night-snow.svg"
+    },
+    "73": {
+        "day": "snow.svg",
+        "night": "snow.svg"
+    },
+    "75": {
+        "day": "extreme-snow.svg",
+        "night": "extreme-snow.svg"
+    },
+    "77": {
+        "day": "snow.svg",
+        "night": "snow.svg"
+    },
+    "80": {
+        "day": "partly-cloudy-day-rain.svg",
+        "night": "partly-cloudy-night-rain.svg"
+    },
+    "81": {
+        "day": "rain.svg",
+        "night": "rain.svg"
+    },
+    "82": {
+        "day": "extreme-rain.svg",
+        "night": "extreme-rain.svg"
+    },
+    "85": {
+        "day": "snow.svg",
+        "night": "snow.svg"
+    },
+    "86": {
+        "day": "snow.svg",
+        "night": "snow.svg"
+    },
+    "95": {
+        "day": "thunderstorms-day.svg",
+        "night": "thunderstorms-night.svg"
+    },
+    "96": {
+        "day": "thunderstorms-day.svg",
+        "night": "thunderstorms-night.svg"
+    },
+    "99": {
+        "day": "thunderstorms-day.svg",
+        "night": "thunderstorms-night.svg"
+    }
+}
