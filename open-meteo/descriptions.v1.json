@@ -1,0 +1,226 @@
+{
+    "0": {
+        "text": "Clear sky",
+        "translations": {
+            "de": "Klarer Himmel",
+            "es": "Cielo despejado",
+            "fr": "Ciel dégagé"
+        }
+    },
+    "1": {
+        "text": "Mainly clear",
+        "translations": {
+            "de": "Überwiegend klar",
+            "es": "Principalmente despejado",
+            "fr": "Principalement dégagé"
+        }
+    },
+    "2": {
+        "text": "Partly cloudy",
+        "translations": {
+            "de": "Teilweise bewölkt",
+            "es": "Parcialmente nublado",
+            "fr": "Partiellement nuageux"
+        }
+    },
+    "3": {
+        "text": "Overcast",
+        "translations": {
+            "de": "Bedeckt",
+            "es": "Nublado",
+            "fr": "Couvert"
+        }
+    },
+    "45": {
+        "text": "Fog",
+        "translations": {
+            "de": "Nebel",
+            "es": "Niebla",
+            "fr": "Brouillard"
+        }
+    },
+    "48": {
+        "text": "Depositing rime fog",
+        "translations": {
+            "de": "Reifnebel",
+            "es": "Niebla con escarcha",
+            "fr": "Brouillard givrant"
+        }
+    },
+    "51": {
+        "text": "Light drizzle",
+        "translations": {
+            "de": "Leichter Nieselregen",
+            "es": "Llovizna ligera",
+            "fr": "Bruine légère"
+        }
+    },
+    "53": {
+        "text": "Moderate drizzle",
+        "translations": {
+            "de": "Mäßiger Nieselregen",
+            "es": "Llovizna moderada",
+            "fr": "Bruine modérée"
+        }
+    },
+    "55": {
+        "text": "Dense drizzle",
+        "translations": {
+            "de": "Starker Nieselregen",
+            "es": "Llovizna densa",
+            "fr": "Bruine dense"
+        }
+    },
+    "56": {
+        "text": "Light freezing drizzle",
+        "translations": {
+            "de": "Leichter gefrierender Nieselregen",
+            "es": "Llovizna helada ligera",
+            "fr": "Bruine verglaçante légère"
+        }
+    },
+    "57": {
+        "text": "Dense freezing drizzle",
+        "translations": {
+            "de": "Starker gefrierender Nieselregen",
+            "es": "Llovizna helada densa",
+            "fr": "Bruine verglaçante dense"
+        }
+    },
+    "61": {
+        "text": "Slight rain",
+        "translations": {
+            "de": "Leichter Regen",
+            "es": "Lluvia ligera",
+            "fr": "Pluie faible"
+        }
+    },
+    "63": {
+        "text": "Moderate rain",
+        "translations": {
+            "de": "Mäßiger Regen",
+            "es": "Lluvia moderada",
+            "fr": "Pluie modérée"
+        }
+    },
+    "65": {
+        "text": "Heavy rain",
+        "translations": {
+            "de": "Starker Regen",
+            "es": "Lluvia fuerte",
+            "fr": "Pluie forte"
+        }
+    },
+    "66": {
+        "text": "Light freezing rain",
+        "translations": {
+            "de": "Leichter gefrierender Regen",
+            "es": "Lluvia helada ligera",
+            "fr": "Pluie verglaçante légère"
+        }
+    },
+    "67": {
+        "text": "Heavy freezing rain",
+        "translations": {
+            "de": "Starker gefrierender Regen",
+            "es": "Lluvia helada fuerte",
+            "fr": "Pluie verglaçante forte"
+        }
+    },
+    "71": {
+        "text": "Slight snow fall",
+        "translations": {
+            "de": "Leichter Schneefall",
+            "es": "Nevada ligera",
+            "fr": "Chute de neige faible"
+        }
+    },
+    "73": {
+        "text": "Moderate snow fall",
+        "translations": {
+            "de": "Mäßiger Schneefall",
+            "es": "Nevada moderada",
+            "fr": "Chute de neige modérée"
+        }
+    },
+    "75": {
+        "text": "Heavy snow fall",
+        "translations": {
+            "de": "Starker Schneefall",
+            "es": "Nevada fuerte",
+            "fr": "Chute de neige forte"
+        }
+    },
+    "77": {
+        "text": "Snow grains",
+        "translations": {
+            "de": "Schneekörner",
+            "es": "Granos de nieve",
+            "fr": "Grains de neige"
+        }
+    },
+    "80": {
+        "text": "Slight rain showers",
+        "translations": {
+            "de": "Leichte Regenschauer",
+            "es": "Chubascos ligeros",
+            "fr": "Averses de pluie faibles"
+        }
+    },
+    "81": {
+        "text": "Moderate rain showers",
+        "translations": {
+            "de": "Mäßige Regenschauer",
+            "es": "Chubascos moderados",
+            "fr": "Averses de pluie modérées"
+        }
+    },
+    "82": {
+        "text": "Violent rain showers",
+        "translations": {
+            "de": "Starke Regenschauer",
+            "es": "Chubascos violentos",
+            "fr": "Averses de pluie violentes"
+        }
+    },
+    "85": {
+        "text": "Slight snow showers",
+        "translations": {
+            "de": "Leichte Schneeschauer",
+            "es": "Chubascos de nieve ligeros",
+            "fr": "Averses de neige faibles"
+        }
+    },
+    "86": {
+        "text": "Heavy snow showers",
+        "translations": {
+            "de": "Starke Schneeschauer",
+            "es": "Chubascos de nieve fuertes",
+            "fr": "Averses de neige fortes"
+        }
+    },
+    "95": {
+        "text": "Slight or moderate thunderstorm",
+        "translations": {
+            "de": "Leichter oder mäßiger Gewitter",
+            "es": "Tormenta ligera o moderada",
+            "fr": "Orage faible ou modéré"
+        }
+    },
+    "96": {
+        "text": "Thunderstorm with slight hail",
+        "translations": {
+            "de": "Gewitter mit leichtem Hagel",
+            "es": "Tormenta con granizo ligero",
+            "fr": "Orage avec grêle faible"
+        }
+    },
+    "99": {
+        "text": "Thunderstorm with heavy hail",
+        "translations": {
+            "de": "Gewitter mit starkem Hagel",
+            "es": "Tormenta con granizo fuerte",
+            "fr": "Orage avec forte grêle"
+        }
+    }
+}
