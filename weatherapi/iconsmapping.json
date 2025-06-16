@@ -1,195 +1,197 @@
 {
     "base_url": "https://andi4000.github.io/weather-icons/production/monochrome/svg-static/",
-    "1000": {
-        "day": "clear-day.svg",
-        "night": "clear-night.svg"
-    },
-    "1003": {
-        "day": "partly-cloudy-day.svg",
-        "night": "partly-cloudy-night.svg"
-    },
-    "1006": {
-        "day": "cloudy.svg",
-        "night": "cloudy.svg"
-    },
-    "1009": {
-        "day": "overcast-day.svg",
-        "night": "overcast-night.svg"
-    },
-    "1030": {
-        "day": "mist.svg",
-        "night": "mist.svg"
-    },
-    "1063": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1066": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1069": {
-        "day": "sleet.svg",
-        "night": "sleet.svg"
-    },
-    "1072": {
-        "day": "drizzle.svg",
-        "night": "drizzle.svg"
-    },
-    "1087": {
-        "day": "thunderstorms-day.svg",
-        "night": "thunderstorms-night.svg"
-    },
-    "1114": {
-        "day": "wind-snow.svg",
-        "night": "wind-snow.svg"
-    },
-    "1117": {
-        "day": "extreme-day-snow.svg",
-        "night": "extreme-night-snow.svg"
-    },
-    "1135": {
-        "day": "fog-day.svg",
-        "night": "fog-night.svg"
-    },
-    "1147": {
-        "day": "fog-day.svg",
-        "night": "fog-night.svg"
-    },
-    "1150": {
-        "day": "drizzle.svg",
-        "night": "drizzle.svg"
-    },
-    "1153": {
-        "day": "drizzle.svg",
-        "night": "drizzle.svg"
-    },
-    "1168": {
-        "day": "drizzle.svg",
-        "night": "drizzle.svg"
-    },
-    "1171": {
-        "day": "drizzle.svg",
-        "night": "drizzle.svg"
-    },
-    "1180": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1183": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1186": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1189": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1192": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1195": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1198": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1201": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1204": {
-        "day": "sleet.svg",
-        "night": "sleet.svg"
-    },
-    "1207": {
-        "day": "sleet.svg",
-        "night": "sleet.svg"
-    },
-    "1210": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1213": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1216": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1219": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1222": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1225": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1237": {
-        "day": "hail.svg",
-        "night": "hail.svg"
-    },
-    "1240": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1243": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1246": {
-        "day": "rain.svg",
-        "night": "rain.svg"
-    },
-    "1249": {
-        "day": "sleet.svg",
-        "night": "sleet.svg"
-    },
-    "1252": {
-        "day": "sleet.svg",
-        "night": "sleet.svg"
-    },
-    "1255": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1258": {
-        "day": "snow.svg",
-        "night": "snow.svg"
-    },
-    "1261": {
-        "day": "hail.svg",
-        "night": "hail.svg"
-    },
-    "1264": {
-        "day": "hail.svg",
-        "night": "hail.svg"
-    },
-    "1273": {
-        "day": "thunderstorms-day-rain.svg",
-        "night": "thunderstorms-night-rain.svg"
-    },
-    "1276": {
-        "day": "thunderstorms-day-rain.svg",
-        "night": "thunderstorms-night-rain.svg"
-    },
-    "1279": {
-        "day": "thunderstorms-day-snow.svg",
-        "night": "thunderstorms-night-snow.svg"
-    },
-    "1282": {
-        "day": "thunderstorms-day-snow.svg",
-        "night": "thunderstorms-night-snow.svg"
+    "icons": {
+        "1000": {
+            "day": "clear-day.svg",
+            "night": "clear-night.svg"
+        },
+        "1003": {
+            "day": "partly-cloudy-day.svg",
+            "night": "partly-cloudy-night.svg"
+        },
+        "1006": {
+            "day": "cloudy.svg",
+            "night": "cloudy.svg"
+        },
+        "1009": {
+            "day": "overcast-day.svg",
+            "night": "overcast-night.svg"
+        },
+        "1030": {
+            "day": "mist.svg",
+            "night": "mist.svg"
+        },
+        "1063": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1066": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1069": {
+            "day": "sleet.svg",
+            "night": "sleet.svg"
+        },
+        "1072": {
+            "day": "drizzle.svg",
+            "night": "drizzle.svg"
+        },
+        "1087": {
+            "day": "thunderstorms-day.svg",
+            "night": "thunderstorms-night.svg"
+        },
+        "1114": {
+            "day": "wind-snow.svg",
+            "night": "wind-snow.svg"
+        },
+        "1117": {
+            "day": "extreme-day-snow.svg",
+            "night": "extreme-night-snow.svg"
+        },
+        "1135": {
+            "day": "fog-day.svg",
+            "night": "fog-night.svg"
+        },
+        "1147": {
+            "day": "fog-day.svg",
+            "night": "fog-night.svg"
+        },
+        "1150": {
+            "day": "drizzle.svg",
+            "night": "drizzle.svg"
+        },
+        "1153": {
+            "day": "drizzle.svg",
+            "night": "drizzle.svg"
+        },
+        "1168": {
+            "day": "drizzle.svg",
+            "night": "drizzle.svg"
+        },
+        "1171": {
+            "day": "drizzle.svg",
+            "night": "drizzle.svg"
+        },
+        "1180": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1183": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1186": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1189": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1192": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1195": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1198": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1201": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1204": {
+            "day": "sleet.svg",
+            "night": "sleet.svg"
+        },
+        "1207": {
+            "day": "sleet.svg",
+            "night": "sleet.svg"
+        },
+        "1210": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1213": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1216": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1219": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1222": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1225": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1237": {
+            "day": "hail.svg",
+            "night": "hail.svg"
+        },
+        "1240": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1243": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1246": {
+            "day": "rain.svg",
+            "night": "rain.svg"
+        },
+        "1249": {
+            "day": "sleet.svg",
+            "night": "sleet.svg"
+        },
+        "1252": {
+            "day": "sleet.svg",
+            "night": "sleet.svg"
+        },
+        "1255": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1258": {
+            "day": "snow.svg",
+            "night": "snow.svg"
+        },
+        "1261": {
+            "day": "hail.svg",
+            "night": "hail.svg"
+        },
+        "1264": {
+            "day": "hail.svg",
+            "night": "hail.svg"
+        },
+        "1273": {
+            "day": "thunderstorms-day-rain.svg",
+            "night": "thunderstorms-night-rain.svg"
+        },
+        "1276": {
+            "day": "thunderstorms-day-rain.svg",
+            "night": "thunderstorms-night-rain.svg"
+        },
+        "1279": {
+            "day": "thunderstorms-day-snow.svg",
+            "night": "thunderstorms-night-snow.svg"
+        },
+        "1282": {
+            "day": "thunderstorms-day-snow.svg",
+            "night": "thunderstorms-night-snow.svg"
+        }
     }
 }
