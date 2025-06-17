@@ -22,8 +22,8 @@
             "night": "mist.svg"
         },
         "1063": {
-            "day": "rain.svg",
-            "night": "rain.svg"
+            "day": "partly-cloudy-day-rain.svg",
+            "night": "partly-cloudy-night-rain.svg"
         },
         "1066": {
             "day": "snow.svg",
