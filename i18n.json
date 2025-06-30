@@ -1,0 +1,22 @@
+{
+  "translations": {
+    "current": {
+      "en": "Current",
+      "de": "Aktuell",
+      "es": "Actual",
+      "fr": "Actuel"
+    },
+    "tomorrow": {
+      "en": "Tomorrow",
+      "de": "Morgen",
+      "es": "Mañana",
+      "fr": "Demain"
+    },
+    "today": {
+      "en": "Today",
+      "de": "Heute",
+      "es": "Hoy",
+      "fr": "Aujourd'hui"
+    }
+  }
+}
