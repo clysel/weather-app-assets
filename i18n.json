@@ -1,64 +1,64 @@
 {
   "translations": {
     "current": {
-      "en": "Current",
       "de": "Aktuell",
       "es": "Actual",
-      "fr": "Actuel"
+      "fr": "Actuel",
+      "en": "Current"
     },
     "tomorrow": {
-      "en": "Tomorrow",
       "de": "Morgen",
       "es": "Mañana",
-      "fr": "Demain"
+      "fr": "Demain",
+      "en": "Tomorrow"
     },
     "today": {
-      "en": "Today",
       "de": "Heute",
       "es": "Hoy",
-      "fr": "Aujourd'hui"
+      "fr": "Aujourd'hui",
+      "en": "Today"
     },
     "monday": {
-      "en": "Monday",
       "de": "Montag",
       "es": "Lunes",
-      "fr": "Lundi"
+      "fr": "Lundi",
+      "en": "Monday"
     },
     "tuesday": {
-      "en": "Tuesday",
       "de": "Dienstag",
       "es": "Martes",
-      "fr": "Mardi"
+      "fr": "Mardi",
+      "en": "Tuesday"
     },
     "wednesday": {
-      "en": "Wednesday",
       "de": "Mittwoch",
       "es": "Miércoles",
-      "fr": "Mercredi"
+      "fr": "Mercredi",
+      "en": "Wednesday"
     },
     "thursday": {
-      "en": "Thursday",
       "de": "Donnerstag",
       "es": "Jueves",
-      "fr": "Jeudi"
+      "fr": "Jeudi",
+      "en": "Thursday"
     },
     "friday": {
-      "en": "Friday",
       "de": "Freitag",
       "es": "Viernes",
-      "fr": "Vendredi"
+      "fr": "Vendredi",
+      "en": "Friday"
     },
     "saturday": {
-      "en": "Saturday",
       "de": "Samstag",
       "es": "Sábado",
-      "fr": "Samedi"
+      "fr": "Samedi",
+      "en": "Saturday"
     },
     "sunday": {
-      "en": "Sunday",
       "de": "Sonntag",
       "es": "Domingo",
-      "fr": "Dimanche"
+      "fr": "Dimanche",
+      "en": "Sunday"
     }
   }
 }
