@@ -3,18 +3,18 @@
     "data": {
         "0": {
             "description": {
-                "en": "Clear sky",
-                "de": "Klarer Himmel",
-                "es": "Cielo despejado",
-                "fr": "Ciel dégagé"
+                "en": "Sunny",
+                "de": "Sonnig",
+                "es": "Soleado",
+                "fr": "Ensoleillé"
             }
         },
         "1": {
             "description": {
-                "en": "Mainly clear",
-                "de": "Überwiegend klar",
-                "es": "Principalmente despejado",
-                "fr": "Principalement dégagé"
+                "en": "Mainly sunny",
+                "de": "Überwiegend sonnig",
+                "es": "Principalmente soleado",
+                "fr": "Principalement ensoleillé"
             }
         },
         "2": {
