@@ -28,9 +28,9 @@
         "3": {
             "description": {
                 "en": "Overcast",
-                "de": "Bedeckt",
+                "de": "Bewölkt",
                 "es": "Nublado",
-                "fr": "Couvert"
+                "fr": "Nuageux"
             }
         },
         "45": {
