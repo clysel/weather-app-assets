@@ -6,7 +6,8 @@
                 "en": "Sunny",
                 "de": "Sonnig",
                 "es": "Soleado",
-                "fr": "Ensoleillé"
+                "fr": "Ensoleillé",
+                "it": "Soleggiato"
             }
         },
         "1": {
@@ -14,7 +15,8 @@
                 "en": "Mainly sunny",
                 "de": "Überwiegend sonnig",
                 "es": "Principalmente soleado",
-                "fr": "Principalement ensoleillé"
+                "fr": "Principalement ensoleillé",
+                "it": "Prevalentemente soleggiato"
             }
         },
         "2": {
@@ -22,7 +24,8 @@
                 "en": "Partly cloudy",
                 "de": "Teilweise bewölkt",
                 "es": "Parcialmente nublado",
-                "fr": "Partiellement nuageux"
+                "fr": "Partiellement nuageux",
+                "it": "Parzialmente nuvoloso"
             }
         },
         "3": {
@@ -30,7 +33,8 @@
                 "en": "Overcast",
                 "de": "Bewölkt",
                 "es": "Nublado",
-                "fr": "Nuageux"
+                "fr": "Nuageux",
+                "it": "Coperto"
             }
         },
         "45": {
@@ -38,7 +42,8 @@
                 "en": "Fog",
                 "de": "Nebel",
                 "es": "Niebla",
-                "fr": "Brouillard"
+                "fr": "Brouillard",
+                "it": "Nebbia"
             }
         },
         "48": {
@@ -46,7 +51,8 @@
                 "en": "Depositing rime fog",
                 "de": "Reifnebel",
                 "es": "Niebla con escarcha",
-                "fr": "Brouillard givrant"
+                "fr": "Brouillard givrant",
+                "it": "Nebbia con brina"
             }
         },
         "51": {
@@ -54,7 +60,8 @@
                 "en": "Light drizzle",
                 "de": "Leichter Nieselregen",
                 "es": "Llovizna ligera",
-                "fr": "Bruine légère"
+                "fr": "Bruine légère",
+                "it": "Pioviggine leggera"
             }
         },
         "53": {
@@ -62,7 +69,8 @@
                 "en": "Moderate drizzle",
                 "de": "Mäßiger Nieselregen",
                 "es": "Llovizna moderada",
-                "fr": "Bruine modérée"
+                "fr": "Bruine modérée",
+                "it": "Pioviggine moderata"
             }
         },
         "55": {
@@ -70,7 +78,8 @@
                 "en": "Dense drizzle",
                 "de": "Starker Nieselregen",
                 "es": "Llovizna densa",
-                "fr": "Bruine dense"
+                "fr": "Bruine dense",
+                "it": "Pioviggine intensa"
             }
         },
         "56": {
@@ -78,7 +87,8 @@
                 "en": "Light freezing drizzle",
                 "de": "Leichter gefrierender Nieselregen",
                 "es": "Llovizna helada ligera",
-                "fr": "Bruine verglaçante légère"
+                "fr": "Bruine verglaçante légère",
+                "it": "Pioviggine gelata leggera"
             }
         },
         "57": {
@@ -86,7 +96,8 @@
                 "en": "Dense freezing drizzle",
                 "de": "Starker gefrierender Nieselregen",
                 "es": "Llovizna helada densa",
-                "fr": "Bruine verglaçante dense"
+                "fr": "Bruine verglaçante dense",
+                "it": "Pioviggine gelata intensa"
             }
         },
         "61": {
@@ -94,7 +105,8 @@
                 "en": "Slight rain",
                 "de": "Leichter Regen",
                 "es": "Lluvia ligera",
-                "fr": "Pluie faible"
+                "fr": "Pluie faible",
+                "it": "Pioggia debole"
             }
         },
         "63": {
@@ -102,7 +114,8 @@
                 "en": "Moderate rain",
                 "de": "Mäßiger Regen",
                 "es": "Lluvia moderada",
-                "fr": "Pluie modérée"
+                "fr": "Pluie modérée",
+                "it": "Pioggia moderata"
             }
         },
         "65": {
@@ -110,7 +123,8 @@
                 "en": "Heavy rain",
                 "de": "Starker Regen",
                 "es": "Lluvia fuerte",
-                "fr": "Pluie forte"
+                "fr": "Pluie forte",
+                "it": "Pioggia intensa"
             }
         },
         "66": {
@@ -118,7 +132,8 @@
                 "en": "Light freezing rain",
                 "de": "Leichter gefrierender Regen",
                 "es": "Lluvia helada ligera",
-                "fr": "Pluie verglaçante légère"
+                "fr": "Pluie verglaçante légère",
+                "it": "Pioggia gelata leggera"
             }
         },
         "67": {
@@ -126,7 +141,8 @@
                 "en": "Heavy freezing rain",
                 "de": "Starker gefrierender Regen",
                 "es": "Lluvia helada fuerte",
-                "fr": "Pluie verglaçante forte"
+                "fr": "Pluie verglaçante forte",
+                "it": "Pioggia gelata intensa"
             }
         },
         "71": {
@@ -134,7 +150,8 @@
                 "en": "Slight snow fall",
                 "de": "Leichter Schneefall",
                 "es": "Nevada ligera",
-                "fr": "Chute de neige faible"
+                "fr": "Chute de neige faible",
+                "it": "Debole nevicata"
             }
         },
         "73": {
@@ -142,7 +159,8 @@
                 "en": "Moderate snow fall",
                 "de": "Mäßiger Schneefall",
                 "es": "Nevada moderada",
-                "fr": "Chute de neige modérée"
+                "fr": "Chute de neige modérée",
+                "it": "Nevicata moderata"
             }
         },
         "75": {
@@ -150,7 +168,8 @@
                 "en": "Heavy snow fall",
                 "de": "Starker Schneefall",
                 "es": "Nevada fuerte",
-                "fr": "Chute de neige forte"
+                "fr": "Chute de neige forte",
+                "it": "Forte nevicata"
             }
         },
         "77": {
@@ -158,7 +177,8 @@
                 "en": "Snow grains",
                 "de": "Schneekörner",
                 "es": "Granos de nieve",
-                "fr": "Grains de neige"
+                "fr": "Grains de neige",
+                "it": "Granuli di neve"
             }
         },
         "80": {
@@ -166,7 +186,8 @@
                 "en": "Slight rain showers",
                 "de": "Leichte Regenschauer",
                 "es": "Chubascos ligeros",
-                "fr": "Averses de pluie faibles"
+                "fr": "Averses de pluie faibles",
+                "it": "Deboli rovesci di pioggia"
             }
         },
         "81": {
@@ -174,7 +195,8 @@
                 "en": "Moderate rain showers",
                 "de": "Mäßige Regenschauer",
                 "es": "Chubascos moderados",
-                "fr": "Averses de pluie modérées"
+                "fr": "Averses de pluie modérées",
+                "it": "Rovesci di pioggia moderati"
             }
         },
         "82": {
@@ -182,7 +204,8 @@
                 "en": "Violent rain showers",
                 "de": "Starke Regenschauer",
                 "es": "Chubascos violentos",
-                "fr": "Averses de pluie violentes"
+                "fr": "Averses de pluie violentes",
+                "it": "Forti rovesci di pioggia"
             }
         },
         "85": {
@@ -190,7 +213,8 @@
                 "en": "Slight snow showers",
                 "de": "Leichte Schneeschauer",
                 "es": "Chubascos de nieve ligeros",
-                "fr": "Averses de neige faibles"
+                "fr": "Averses de neige faibles",
+                "it": "Deboli rovesci di neve"
             }
         },
         "86": {
@@ -198,7 +222,8 @@
                 "en": "Heavy snow showers",
                 "de": "Starke Schneeschauer",
                 "es": "Chubascos de nieve fuertes",
-                "fr": "Averses de neige fortes"
+                "fr": "Averses de neige fortes",
+                "it": "Forti rovesci di neve"
             }
         },
         "95": {
@@ -206,7 +231,8 @@
                 "en": "Slight or moderate thunderstorm",
                 "de": "Leichter oder mäßiger Gewitter",
                 "es": "Tormenta ligera o moderada",
-                "fr": "Orage faible ou modéré"
+                "fr": "Orage faible ou modéré",
+                "it": "Temporale debole o moderato"
             }
         },
         "96": {
@@ -214,7 +240,8 @@
                 "en": "Thunderstorm with slight hail",
                 "de": "Gewitter mit leichtem Hagel",
                 "es": "Tormenta con granizo ligero",
-                "fr": "Orage avec grêle faible"
+                "fr": "Orage avec grêle faible",
+                "it": "Temporale con grandine debole"
             }
         },
         "99": {
@@ -222,7 +249,8 @@
                 "en": "Thunderstorm with heavy hail",
                 "de": "Gewitter mit starkem Hagel",
                 "es": "Tormenta con granizo fuerte",
-                "fr": "Orage avec forte grêle"
+                "fr": "Orage avec forte grêle",
+                "it": "Temporale con grandine forte"
             }
         }
     }
