@@ -17,6 +17,48 @@
       "de": "Heute",
       "es": "Hoy",
       "fr": "Aujourd'hui"
+    },
+    "monday": {
+      "en": "Monday",
+      "de": "Montag",
+      "es": "Lunes",
+      "fr": "Lundi"
+    },
+    "tuesday": {
+      "en": "Tuesday",
+      "de": "Dienstag",
+      "es": "Martes",
+      "fr": "Mardi"
+    },
+    "wednesday": {
+      "en": "Wednesday",
+      "de": "Mittwoch",
+      "es": "Miércoles",
+      "fr": "Mercredi"
+    },
+    "thursday": {
+      "en": "Thursday",
+      "de": "Donnerstag",
+      "es": "Jueves",
+      "fr": "Jeudi"
+    },
+    "friday": {
+      "en": "Friday",
+      "de": "Freitag",
+      "es": "Viernes",
+      "fr": "Vendredi"
+    },
+    "saturday": {
+      "en": "Saturday",
+      "de": "Samstag",
+      "es": "Sábado",
+      "fr": "Samedi"
+    },
+    "sunday": {
+      "en": "Sunday",
+      "de": "Sonntag",
+      "es": "Domingo",
+      "fr": "Dimanche"
     }
   }
 }
