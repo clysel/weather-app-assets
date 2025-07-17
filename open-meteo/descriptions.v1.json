@@ -1,7 +1,7 @@
 {
     "description": "Open-Meteo WMO condition codes and their descriptions in multiple languages.",
     "data": {
-        "0": {
+        "0d": {
             "description": {
                 "de": "Sonnig",
                 "es": "Soleado",
@@ -11,7 +11,7 @@
                 "en": "Sunny"
             }
         },
-        "1": {
+        "1d": {
             "description": {
                 "de": "Überwiegend sonnig",
                 "es": "Principalmente soleado",
@@ -19,6 +19,26 @@
                 "it": "Prevalentemente soleggiato",
                 "nl": "Voornamelijk zonnig",
                 "en": "Mainly sunny"
+            }
+        },
+        "0": {
+            "description": {
+                "de": "Klar",
+                "es": "Despejado",
+                "fr": "Dégagé",
+                "it": "Sereno",
+                "nl": "Helder",
+                "en": "Clear"
+            }
+        },
+        "1": {
+            "description": {
+                "de": "Überwiegend klar",
+                "es": "Principalmente despejado",
+                "fr": "Principalement dégagé",
+                "it": "Prevalentemente sereno",
+                "nl": "Voornamelijk helder",
+                "en": "Mainly clear"
             }
         },
         "2": {
